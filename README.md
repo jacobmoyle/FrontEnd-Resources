@@ -5,7 +5,7 @@ Table sorting:
 2. Install [Github Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content)
 
 
-| :white_check_mark: | Topic        | Title                                                                                                                              |
+|        Read        | Topic        | Title                                                                                                                              |
 |:------------------:|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | :white_check_mark: | Architecture | [Code Splitting](https://github.com/webpack/docs/wiki/code-splitting)                                                              |
 | :white_check_mark: | Architecture | Read Up on CI/CD                                                                                                                   |
