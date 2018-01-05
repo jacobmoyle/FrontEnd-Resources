@@ -6,7 +6,7 @@ Table sorting:
 
 
 | Read | Topic        | Title                                                                                                                              |
-|--:---|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+|------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | ✓    | Architecture | [Code Splitting](https://github.com/webpack/docs/wiki/code-splitting)                                                              |
 | ✓    | Architecture | Read Up on CI/CD                                                                                                                   |
 | ✓    | CSS          | [CSS Modules](https://github.com/css-modules/css-modules)                                                                          |
