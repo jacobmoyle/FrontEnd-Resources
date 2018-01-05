@@ -7,17 +7,17 @@ Table sorting:
 
 |        Read        | Topic        | Title                                                                                                                              |
 |:------------------:|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| :white_check_mark: | Architecture | [Code Splitting](https://github.com/webpack/docs/wiki/code-splitting)                                                              |
-| :white_check_mark: | Architecture | Read Up on CI/CD                                                                                                                   |
-| :white_check_mark: | CSS          | [CSS Modules](https://github.com/css-modules/css-modules)                                                                          |
+| :heavy_check_mark: | Architecture | [Code Splitting](https://github.com/webpack/docs/wiki/code-splitting)                                                              |
+| :heavy_check_mark: | Architecture | Read Up on CI/CD                                                                                                                   |
+| :heavy_check_mark: | CSS          | [CSS Modules](https://github.com/css-modules/css-modules)                                                                          |
 |                    | Docker       | Read Up on Docker                                                                                                                  |
 |                    | Drone        | Read Up on Drone                                                                                                                   |
 |                    | Go           | [Go Anti-Patterns](https://www.reddit.com/r/golang/comments/2u2ke0/share_your_golang_antipatterns/#bottom-comments)                |
 |                    | Go           | [Go Readability](https://talks.golang.org/2014/readability.slide#1)                                                                |
-| :white_check_mark: | JavaScript   | [ECMAScript 6 modules: the final syntax](http://2ality.com/2014/09/es6-modules-final.html)                                         |
-| :white_check_mark: | JavaScript   | [State of JS 2017](https://stateofjs.com/2017/connections/)                                                                        |
+| :heavy_check_mark: | JavaScript   | [ECMAScript 6 modules: the final syntax](http://2ality.com/2014/09/es6-modules-final.html)                                         |
+| :heavy_check_mark: | JavaScript   | [State of JS 2017](https://stateofjs.com/2017/connections/)                                                                        |
 |                    | JavaScript   | [Learn ES6](https://es6.io/)                                                                                                       |
-| :white_check_mark: | JSS          | [Abstracting CSS to Javascript](http://cssinjs.org/?v=v9.3.3)                                                                      |
+| :heavy_check_mark: | JSS          | [Abstracting CSS to Javascript](http://cssinjs.org/?v=v9.3.3)                                                                      |
 |                    | PostCSS      | [Mastering PostCSS for Web Design](https://www.packtpub.com/web-development/mastering-postcss-web-design)                          |
 |                    | React        | [Learn React](https://learnreact.com/)                                                                                             |
 |                    | React        | [React Patterns](https://reactpatterns.com/)                                                                                       |
