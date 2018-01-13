@@ -24,3 +24,4 @@ Table sorting:
 |                    | Redux        | [Redux Without Profanity](https://drive.google.com/a/restlessbandit.com/file/d/1o9GTPU83WSyB1MroOihxz4obd9Ec1qd6/view?usp=sharing) |
 |                    | Webpack      | [Hot Module Replacement](https://webpack.github.io/docs/hot-module-replacement.html)                                               |
 |                    | CSS          | [Learn CSS Grid](https://scrimba.com/g/gR8PTE)                                                                                     |
+| | Javascript | [Functional-Lite JavaScript](https://github.com/getify/Functional-Light-JS) |
