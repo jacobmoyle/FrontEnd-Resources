@@ -25,4 +25,4 @@ Table sorting:
 |                    | Webpack      | [Hot Module Replacement](https://webpack.github.io/docs/hot-module-replacement.html)                                               |
 |                    | CSS          | [Learn CSS Grid](https://scrimba.com/g/gR8PTE)                                                                                     |
 | | Javascript | [Functional-Lite JavaScript](https://github.com/getify/Functional-Light-JS) |
-| | React | [React Optimization](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html) |
+| | React | [React is Slow, React is Fast](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html) |
