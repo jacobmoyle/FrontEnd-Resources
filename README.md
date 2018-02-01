@@ -23,5 +23,7 @@ Resources I found benefitial.
 
 ### Enable Row Sorting:
 
+**Warning:** This may create side effects. Be sure if turn Tampermonkey off when not in use.
+
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related) to your browser
 2. Install [Github Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content)
