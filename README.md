@@ -17,7 +17,7 @@ Resources I found benefitial.
 |                    | JS Webpack      |  R  | [Hot Module Replacement](https://webpack.github.io/docs/hot-module-replacement.html)                                               |
 |                    | CSS             |  R  | [Learn CSS Grid](https://scrimba.com/g/gR8PTE)                                                                                     |
 |                    | JS              |  R  | [Functional-Lite JavaScript](https://github.com/getify/Functional-Light-JS)                                                        |
-| :heavy_check_mark: | CSS Flexbox     | $W  | [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals)                                                            |  | Go RPC | R | [Tirp: An RPC Framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f) |
+| :heavy_check_mark: | CSS Flexbox     | $W  | [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals)                                                            |  | Go RPC | R | [Twirp: An RPC Framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f) |
 
 ## Footnotes
 
