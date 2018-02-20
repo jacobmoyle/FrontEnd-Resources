@@ -18,6 +18,7 @@ Resources I found benefitial.
 |                    | CSS             |  R  | [Learn CSS Grid](https://scrimba.com/g/gR8PTE)                                                                                     |
 |                    | JS              |  R  | [Functional-Lite JavaScript](https://github.com/getify/Functional-Light-JS)                                                        |
 | :heavy_check_mark: | CSS Flexbox     | $W  | [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals)                                                            |  | Go RPC | R | [Twirp: An RPC Framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f) |
+| :heavy_check_mark: | React Architecture | R | [Container Compoonents](https://medium.com/@learnreact/container-components-c0e67432e005) |
 
 ## Footnotes
 
