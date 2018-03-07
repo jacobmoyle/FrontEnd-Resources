@@ -1,6 +1,4 @@
-Resources I found benefitial.
-
-|        Done        | Tag(s)          | $RW | Title                                                                                                                              |
+|                | Tag(s)          | $RW | Title                                                                                                                              |
 | :----------------: | :-------------- | :-: | :--------------------------------------------------------------------------------------------------------------------------------- |
 | :heavy_check_mark: | JS Architecture |  R  | [Code Splitting](https://github.com/webpack/docs/wiki/code-splitting)                                                              |
 | :heavy_check_mark: | CSS             |  R  | [CSS Modules](https://github.com/css-modules/css-modules)                                                                          |
@@ -19,6 +17,7 @@ Resources I found benefitial.
 |                    | JS              |  R  | [Functional-Lite JavaScript](https://github.com/getify/Functional-Light-JS)                                                        |
 | :heavy_check_mark: | CSS Flexbox     | $W  | [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals)                                                            |  | Go RPC | R | [Twirp: An RPC Framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f) |
 | :heavy_check_mark: | React Architecture | R | [Container Compoonents](https://medium.com/@learnreact/container-components-c0e67432e005) |
+| :heavy_check_mark: | CSS Accessibility | R | [6 Web Accessibility Tests](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/)
 
 ## Footnotes
 
