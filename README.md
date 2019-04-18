@@ -27,3 +27,106 @@
 
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related) to your browser
 2. Install [Github Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content)
+
+---
+
+Brain Dump
+
+# Engineering Learnings and Blog Posts
+
+## Tooling
+
+Workflow
+
+```
+Semantic Release: Fully automated version management and package publishing
+Commitizen: Get instant feedback on your commit message formatting and be prompted for required fields
+Netlify: Build, deploy, and manage static sites
+indigo.design: Generate high-quality Angular (react coming) components from Sketch
+deque: Accessibility Testing | USA Section 508 Compliant. ADA Compliant, WCAG Compliant
+Axe: Axe is an accessibility testing engine for websites and other HTML-based user interfaces
+```
+## SmartBear
+
+## Manage
+
+```
+Zephyr: Native Jira and Enterprise Test Management
+```
+## Design
+
+```
+HipTest: Collaborative BDD Test Management
+SwaggerHub: Collaborative API Design and Documentation
+```
+## Create
+
+```
+ServiceV Pro: Mocking and Service Virtualization
+Collaborator: Code and Document Review
+TestLeft: UI Functional Testing Framework
+AQTime Pro: Memory And Performance Profiling
+```
+## Monitor
+
+```
+AlertSite: Web, Mobile, & API Performance Monitoring
+```
+## Test
+
+```
+ReadyAPI: Collaborative API Quality Platform
+SoapUI Pro: API Automated Functional and Security Testing
+LoadUI Pro: API Load and Perforamnce Testing
+TestComplete: UI Automated Functional Testing
+LoadNinja: Web Load and Performance Testing
+CrossBrowserTesting: Interactive cross-browser, Automated Screenshots & Comparisons, Selenium + Appium, Record and
+Replay
+```
+App & Browser Testing
+
+```
+CrossBrowserTesting: Interactive cross-browser, Automated Screenshots & Comparisons, Selenium + Appium, Record and Replay
+BrowserStack: Interactive cross-browser, Selenium
+```
+Design
+
+```
+UXPin: Design and prototyping tool
+UXPin Merge: Could change Design/FE handoff - In Beta as of April 16th, 2019
+merge-cli: The Command-line tool integrates the Design System repository with UXPin Merge
+Abstract: Github for Sketch - Version, manage and collaborate on Sketch files
+```
+CI Regression Tests
+
+```
+Lighthouse: Performance Regression testing per PR
+Coveralls: Test coverage Regression testing, History, and Statistics
+Snyk: Automates finding and fixing vulnerabilities in Dependencies
+RenovateBot: Responsive Dependency Automation for Enterprise
+percy: All-in-one visual testing and review platform
+```
+### Continual Learning:
+
+
+```
+30 Seconds of Knowledge: Become a better Developer, one New Tab at a Time
+That Time Jacob Was Bored
+```
+## Blog Posts
+
+Accessibility
+
+```
+Simplest Web Accessibility Tests Anyone Can Do
+```
+#### CSS
+
+```
+CSS Modules: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
+JSS: An authoring tool for CSS which allows you to use JavaScript to describe styles in a declarative, conflict-free and reusable way. It
+can compile in the browser, server-side or at build time in Node.
+Layouts + Alignment
+CSS Grid | Layout
+Flexbox | Alignments
+```
